@@ -2,6 +2,10 @@
 
 Prayer times and important days for the Maldives.
 
+Designed and developed by **Saud Siyam** · siyaantey@gmail.com
+
+© 2026 Saud Siyam. All rights reserved. Free to use and share; please don't sell or change it.
+
 **Download:** [Vaguthuthah.apk](https://raw.githubusercontent.com/siyaantey/vaguthuthah/main/Vaguthuthah.apk)
 
 The app checks `update.json` twice a day for new versions and holiday changes.

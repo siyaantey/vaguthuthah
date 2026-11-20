@@ -1,9 +1,9 @@
 {
-  "versionCode": 18,
-  "versionName": "18.0",
+  "versionCode": 19,
+  "versionName": "19.0",
   "apk": "Vaguthuthah.apk",
-  "notes_en": "In-app updates and holiday updates.",
-  "notes_dv": "އެޕް ތެރެއިން އަޕްޑޭޓް ކުރެވޭ ގޮތް، އަދި ބަންދު ދުވަސްތަކުގެ އަޕްޑޭޓް.",
+  "notes_en": "• Your name and signature in Settings → About\n• New number font for the widget calendar and clocks\n• 6 more Dhivehi fonts: Waheed, Galan, Avas Akuru, Iyyu, MAG Round, Elaaf",
+  "notes_dv": "• ސެޓިންގްސް → އެޕާ ބެހޭގޮތުން، ތައްޔާރުކުރި ފަރާތުގެ ނަމާއި ސޮއި\n• ވިޖެޓް ކަލަންޑަރާއި ގަޑިއަށް އައު ނަމްބަރު ފޮންޓެއް\n• އިތުރު 6 ދިވެހި ފޮންޓް: ވަޙީދު، ގަލަން، އަވަސް އަކުރު، އިއްޔު، މެގް ރައުންޑް، އެލާފް",
   "holidays": [],
   "not_holidays": []
 }
