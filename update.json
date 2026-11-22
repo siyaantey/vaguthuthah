@@ -1,9 +1,9 @@
 {
-  "versionCode": 21,
-  "versionName": "21.0",
+  "versionCode": 22,
+  "versionName": "22.0",
   "apk": "Vaguthuthah.apk",
-  "notes_en": "• Fixed: the app closed when opening Settings\n• Includes your name and signature, new widget number font and 6 more Dhivehi fonts",
-  "notes_dv": "• ރަނގަޅުކުރެވުނު: ސެޓިންގްސް ހުޅުވާއިރު އެޕް ބަންދުވާ މައްސަލަ\n• ނަމާއި ސޮއި، ވިޖެޓް ނަމްބަރު ފޮންޓް، އަދި އިތުރު 6 ދިވެހި ފޮންޓް",
+  "notes_en": "• Dhivehi title of the About section corrected",
+  "notes_dv": "• \"މިއެޕުގެ ތައާރަފު\" ގެ ސުރުޚީ ރަނގަޅުކުރެވިއްޖެ",
   "holidays": [],
   "not_holidays": []
 }
