@@ -1,9 +1,9 @@
 {
-  "versionCode": 22,
-  "versionName": "22.0",
+  "versionCode": 23,
+  "versionName": "23.0",
   "apk": "Vaguthuthah.apk",
-  "notes_en": "• Dhivehi title of the About section corrected",
-  "notes_dv": "• \"މިއެޕުގެ ތައާރަފު\" ގެ ސުރުޚީ ރަނގަޅުކުރެވިއްޖެ",
+  "notes_en": "• Dhivehi About text updated",
+  "notes_dv": "• \"މިއެޕުގެ ތައާރަފު\" ގެ ލިޔުން ބަދަލުކުރެވިއްޖެ",
   "holidays": [],
   "not_holidays": []
 }
