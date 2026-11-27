@@ -1,9 +1,9 @@
 {
-  "versionCode": 25,
-  "versionName": "25.0",
+  "versionCode": 26,
+  "versionName": "26.0",
   "apk": "Vaguthuthah.apk",
-  "notes_en": "• 2027 school calendar added (Ministry's tentative version of 1 Oct 2026): terms, exams, breaks and 2027 public holidays\n• It switches to the final calendar automatically when the Ministry publishes it",
-  "notes_dv": "• 2027 ގެ ސްކޫލް ކަލަންޑަރު (ވަޒާރާގެ ޓެންޓެޓިވް ކަލަންޑަރު): ޓާމުތައް، އިމްތިޙާނުތައް، ބަންދުތައް އަދި 2027 ގެ ސަރުކާރު ބަންދުތައް\n• ވަޒާރާއިން ފައިނަލް ކަލަންޑަރު ޝާއިޢުކުރުމުން އަމިއްލައަށް ބަދަލުވާނެ",
+  "notes_en": "• New \"School\" tab in Calendar: the Ministry's school calendar as a month view with event bars, plus every event of the month with dates. Tap an event for details.",
+  "notes_dv": "• ކަލަންޑަރުގައި އައު \"ސްކޫލް\" ޓެބް: ވަޒާރާގެ ސްކޫލް ކަލަންޑަރު މަހުގެ ގޮތަށް، ހަރަކާތްތައް ދުވަސްތަކުގެ މައްޗަށް. މަހުގެ ހުރިހާ ހަރަކާތެއް ތާރީޚާއެކު. ތަފްޞީލަށް ހަރަކާތަށް ފިތާލާ.",
   "holidays": [],
   "not_holidays": []
 }
