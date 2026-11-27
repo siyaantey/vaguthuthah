@@ -1,9 +1,9 @@
 {
-  "versionCode": 24,
-  "versionName": "24.0",
+  "versionCode": 25,
+  "versionName": "25.0",
   "apk": "Vaguthuthah.apk",
-  "notes_en": "• Bold day numbers in the widget calendars",
-  "notes_dv": "• ވިޖެޓް ކަލަންޑަރުގެ ތާރީޚުތައް ބޯކޮށް",
+  "notes_en": "• 2027 school calendar added (Ministry's tentative version of 1 Oct 2026): terms, exams, breaks and 2027 public holidays\n• It switches to the final calendar automatically when the Ministry publishes it",
+  "notes_dv": "• 2027 ގެ ސްކޫލް ކަލަންޑަރު (ވަޒާރާގެ ޓެންޓެޓިވް ކަލަންޑަރު): ޓާމުތައް، އިމްތިޙާނުތައް، ބަންދުތައް އަދި 2027 ގެ ސަރުކާރު ބަންދުތައް\n• ވަޒާރާއިން ފައިނަލް ކަލަންޑަރު ޝާއިޢުކުރުމުން އަމިއްލައަށް ބަދަލުވާނެ",
   "holidays": [],
   "not_holidays": []
 }
