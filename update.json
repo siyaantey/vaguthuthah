@@ -1,9 +1,9 @@
 {
-  "versionCode": 23,
-  "versionName": "23.0",
+  "versionCode": 24,
+  "versionName": "24.0",
   "apk": "Vaguthuthah.apk",
-  "notes_en": "• Dhivehi About text updated",
-  "notes_dv": "• \"މިއެޕުގެ ތައާރަފު\" ގެ ލިޔުން ބަދަލުކުރެވިއްޖެ",
+  "notes_en": "• Bold day numbers in the widget calendars",
+  "notes_dv": "• ވިޖެޓް ކަލަންޑަރުގެ ތާރީޚުތައް ބޯކޮށް",
   "holidays": [],
   "not_holidays": []
 }
