@@ -1,9 +1,9 @@
 {
-  "versionCode": 27,
-  "versionName": "27.0",
+  "versionCode": 28,
+  "versionName": "28.0",
   "apk": "Vaguthuthah.apk",
-  "notes_en": "• Full-screen pop-up: prayer times, reminders and important days now pop up even when the phone is silent or locked, and stay on the screen until you tap OK\n• Turn it on or off in Alarms",
-  "notes_dv": "• ފުލް ސްކްރީން ޕޮޕްއަޕް: ފޯނު ސައިލެންޓް ނުވަތަ ލޮކްވެފައި ހުއްޓަސް ނަމާދު ވަގުތާއި ހަނދާންކޮށްދިނުމާއި މުހިންމު ދުވަސްތައް ޕޮޕްއަޕް ވާނެ. \"އާދޭ\" އަށް ފިތާލަންދެން ސްކްރީނުގައި ހުންނާނެ\n• އެލާމް ޕޭޖުން ހުޅުވާ ނުވަތަ ބަންދުކުރެވޭނެ",
+  "notes_en": "• Fixed: hours, minutes and seconds labels under the countdown were in the wrong order in Dhivehi",
+  "notes_dv": "• ރަނގަޅުކުރެވުނު: ކައުންޓްޑައުން ދަށުގައިވާ ގަޑިއިރު، މިނިޓު، ސިކުންތު ތަރުތީބު",
   "holidays": [],
   "not_holidays": []
 }
